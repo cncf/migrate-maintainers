@@ -1,0 +1,24 @@
+{
+  "name": "migrate-maintainers-csv",
+  "version": "1.0.0",
+  "description": "migrates from recrods in foundation/maintainters.csv to cncf/people.json",
+  "main": "index.js",
+  "author": "Robert Kielty",
+  "packageManager": "npm@8.19.3",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "csv": "^6.2.8",
+    "fs": "^0.0.1-security",
+    "papaparse": "^5.4.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cncf",
+    "maintainers",
+    "csv",
+    "people.json"
+  ]
+}
