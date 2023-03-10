@@ -15,9 +15,19 @@ npm install
 node index.js 
 ```
 
-Two output file are created in the ./data/output folder
-maintainers.json is a temporary 
-The Fills out the missing fields in the maintainer records by using the field value above in the previous record
+Two output files are created in the `./data/output` folder
 
-(N.B. A maintainer with an incomplete record will inherit the voting rights of the previous record.There are three projects where this happens)
+### ./data/output/maintainer.json
+
+maintainers.json is a temporary file that is a JSON version of the maintainers.csv file.
+For records in the maintainers.csv file that have empty fields the JSON version inherits the 
+project name of the previouw recrod in the CSV verion of maintainers.
+
+(N.B. A maintainer with an incomplete record will inherit the non-voting rights of the previous record.There are three projects where this happens)
+
+### ./data/output/people.json
+
+Updated people.json with added and updated maintainers
+
+The program write actions taken to STDOUT as it runs.
 
