@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Andres Vega",
+        "bio": "",
+        "company": "SPIFFE/SPIRE",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/avegaarias/",
+        "twitter": "https://twitter.com/invariantly",
+        "github": "https://github.com/anvega",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [],
+        "image": "https://www.cncf.io/wp-content/uploads/2020/08/andres_vega_300x300-scaled-2.jpg",
+        "maintainer": {
+            "SPIFFE": {
+                "non-voting": "true"
+            }
+        }
+    },
+    {
+        "name": "April Kyle Nassi",
+        "bio": "She started in community with a ragtag group of poker bloggers, and then moved to California and found code. She built the Salesforce Developer Community, and remains passionate about supporting developers to build awesome things. She's equally passionate about puppers, and has two adorable Australian Shepherds, Vegas &amp; Aria.",
+        "company": "Google",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/aprilkylenassi/",
+        "twitter": "https://twitter.com/thisisnotapril",
+        "github": "https://github.com/thisisnotapril",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2020/08/anassi-1.jpg",
+        "maintainer": {
+            "Istio: Steering Committee": {
+                "non-voting": "true"
+            }
+        }
+    }
+]

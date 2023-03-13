@@ -1,0 +1,1284 @@
+[
+    {
+        "name": "Christoph Blecker",
+        "bio": "Christoph is an Architect and Senior Principal Site Reliability Engineer at Red Hat and a maintainer of the Kubernetes project. He has served two terms on the Kubernetes Steering Committee, is a Technical Lead for SIG Contributor Experience, and a co-chair for the CNCF Code of Conduct working group. If he's not reviewing PRs, he is probably walking his dog in Kelowna, British Columbia, Canada.",
+        "company": "Red Hat (Kubernetes Rep)",
+        "pronouns": "He/Him",
+        "linkedin": "https://www.linkedin.com/in/cblecker",
+        "twitter": "https://twitter.com/tophee",
+        "github": "https://github.com/cblecker",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Governing Board"
+        ],
+        "image": "cblecker.jpeg",
+        "maintainer": {
+            "Kubernetes": "true"
+        }
+    },
+    {
+        "name": "Bob Killen",
+        "bio": "Bob is a Program Manager at the <a href=https://opensource.google/ target=_blank rel=\"noopener noreferrer\"> Google Open Source Programs Office</a> with a focus on Cloud Native computing. He serves the <a href=https://kubernetes.io target=_blank rel=\"noopener noreferrer\">Kubernetes project</a> as a <a href=http://git.k8s.io/community/committee-steering target=_blank rel=\"noopener noreferrer\">Steering Committee</a> member and chair of the <a href=http://git.k8s.io/community/sig-contributor-experience target=_blank rel=\"noopener noreferrer\">Contributor Experience</a> Special Interest Group and has been involved in many other cross-cutting areas of the project. Bob comes from an academic background, spending 15 years at the University of Michigan with a later focus on computational research. As a <a href=https://www.cncf.io/people/ambassadors/ target=_blank rel=\"noopener noreferrer\">Cloud Native Computing Foundation Ambassador</a>, Bob has worked towards improving High Performance Computing, Machine Learning, and other research initiatives by integrating them with Cloud Native practices and tooling. He is passionate about Academic Outreach, and is an outspoken advocate of Open Source, Open Science and pets of the furry 4 legged variety.",
+        "company": "Google",
+        "pronouns": "he/him",
+        "linkedin": "https://www.linkedin.com/in/mrbobbytables/",
+        "twitter": "https://twitter.com/mrbobbytables",
+        "github": "https://github.com/mrbobbytables",
+        "wechat": "",
+        "website": "https://mrbobbytabl.es",
+        "youtube": "",
+        "location": "Minneapolis, MN, United States",
+        "projects": [
+            "Kubernetes",
+            "Prometheus"
+        ],
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2020/08/Bob-Killen-1.jpeg",
+        "maintainer": {
+            "Kubernetes": "true"
+        }
+    },
+    {
+        "name": "Josh Berkus",
+        "bio": "<p>Josh Berkus is Red Hat's Kubernetes community manager, and runs the Cloud Native PDX meetup.  He is co-chair of CNCF TAG-Contributor Strategy, and is available to help projects with governance, recruiting contributors, and surveys.  He lives in Portland, OR with a librarian and a cat, and makes Kubernetes-themed pottery for various community events.</p>",
+        "company": "Red Hat",
+        "pronouns": "",
+        "linkedin": "",
+        "twitter": "https://twitter.com/fuzzychef",
+        "github": "https://github.com/jberkus",
+        "wechat": "",
+        "website": "https://jberkus.github.io",
+        "location": "Portland, OR, United States",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2017/06/115146.jpg",
+        "maintainer": {
+            "Kubernetes: SIG Contributor Experience (non-voting)": "true"
+        }
+    },
+    {
+        "name": "Nikhita Raghunath",
+        "bio": "Nikhita is a member of the CNCF Technical Oversight Committee, a contributor to the Kubernetes project and works as a Staff Software Engineer at VMware. She won the CNCF “Top Committer Award” in 2021 for her technical contributions and the “Chop Wood Carry Water” in 2018 for her community work. Additionally, Nikhita is a CNCF Ambassador, the technical lead for Kubernetes SIG Contributor Experience and a former member of the Kubernetes Steering Committee. Nikhita has also been featured in Business Insider as one the ‘top 21 developers transforming Silicon Valley’.",
+        "company": "VMWare",
+        "pronouns": "she/her",
+        "linkedin": "https://www.linkedin.com/in/nikinath/",
+        "twitter": "https://twitter.com/TheNikhita",
+        "github": "https://github.com/nikhita",
+        "wechat": "",
+        "website": "",
+        "location": "Bangalore, India",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors",
+            "Technical Oversight Committee"
+        ],
+        "image": "nikhita-raghunath.jpg",
+        "maintainer": {
+            "Kubernetes: SIG Contributor Experience (non-voting)": "true"
+        }
+    },
+    {
+        "name": "Davanum Srinivas",
+        "bio": "<p>Davanum Srinivas (a.k.a Dims) is a Staff Engineer with Amazon Web Services working full time on Kubernetes and related projects at CNCF. Dims is on the Kubernetes Steering Committee and actively involved in various Kubernetes SIGs and working groups like the Architecture, Testing, Node, Infrastructure etc. Previously at VMware, Huawei and Mirantis, he was involved in OpenStack Nova, Oslo, KeyStone, Magnum and related projects and on the Technical Committee in OpenStack.He also worked on IBM PureApplication product as an Architect and led a team working on Web Services support in WebSphere. Dims has a long track record in open source projects including Apache Cocoon, Axis2, Geronimo at the Apache Software Foundation and co-founded WSO2 based on the open source business model.</p>",
+        "company": "Amazon Web Services (TOC Chair)",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/davanum/",
+        "twitter": "https://twitter.com/dims",
+        "github": "https://github.com/dims",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Governing Board",
+            "Technical Oversight Committee"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2019/07/23304.jpg",
+        "maintainer": {
+            "containerd": "true"
+        }
+    },
+    {
+        "name": "Bartłomiej Płotka",
+        "bio": "<p>Bartek Plotka is a Principal Software Engineer at Red Hat with a background in SRE, currently working on Observability. As the co-author of the CNCF Thanos project and core maintainer of various open-source projects including Prometheus, he enjoys building OSS communities and maintainable, reliable distributed systems, ideally in Go. On top of that, he is active in the CNCF SIG Observability as the technical lead. He writes a book with O'Reilly.</p>",
+        "company": "Red Hat",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/bwplotka",
+        "twitter": "https://twitter.com/bwplotka",
+        "github": "https://github.com/bwplotka",
+        "wechat": "",
+        "website": "https://bwplotka.dev",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2021/07/profile.jpeg",
+        "maintainer": {
+            "Thanos": "true"
+        }
+    },
+    {
+        "name": "Julius Volz",
+        "bio": "Julius co-founded Prometheus and lead the project to success at SoundCloud and beyond. He now focuses on growing the Prometheus community and is the main organizer of PromCon, the first conference around Prometheus. In a previous life, Julius was a Site Reliability Engineer at Google.\n\nMeet-Up Organizer:\n<a href=\"http://www.meetup.com/Berlin-Prometheus-Meetup/\" target=\"_blank\" rel=\"noopener noreferrer\">Berlin Prometheus Meetup</a>",
+        "company": "",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/julius-volz-25793713/",
+        "twitter": "https://twitter.com/juliusvolz?lang=en",
+        "github": "https://github.com/juliusv",
+        "wechat": "",
+        "website": "",
+        "location": "Berlin, Germany",
+        "projects": [
+            "Prometheus"
+        ],
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2017/06/538008.jpg",
+        "maintainer": {
+            "Trickster ": "true"
+        }
+    },
+    {
+        "name": "Richard Hartmann",
+        "bio": "Richard \"RichiH\" Hartmann is the Director of Community at Grafana Labs, Prometheus team member, OpenMetrics founder, OpenTelemetry member, CNCF TAG Observability chair, CNCF Governing Board member, and more. He also leads or organizes various conferences, including PromCon, FOSDEM, DENOG, DebConf, and Chaos Communication Congress. In the past, he made mainframe databases work, ISP backbones run, freenode work, and designed and built a datacenter from scratch. Go through his talks at https://github.com/RichiH/talks or follow him on Twitter at https://twitter.com/TwitchiH for musings on the intersection of technology and society.",
+        "company": "Grafana Labs (Developer Seat Rep)",
+        "pronouns": "he/him",
+        "linkedin": "https://www.linkedin.com/in/richih",
+        "twitter": "https://twitter.com/TwitchiH",
+        "github": "https://github.com/richih",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Governing Board",
+            "Technical Oversight Committee"
+        ],
+        "image": "richard-hartmann.jpg",
+        "maintainer": {
+            "OpenMetrics": "true"
+        }
+    },
+    {
+        "name": "Tom Wilkie",
+        "bio": "<p>Tom is VP Product at Grafana Labs, a member of the Prometheus team, and one of the original authors of the Cortex and Loki projects. In his spare time, he builds 3D printers and makes pizza.",
+        "company": "Grafana Labs",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/tomwilkie/?originalSubdomain=uk",
+        "twitter": "https://twitter.com/tom_wilkie",
+        "github": "https://github.com/tomwilkie",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Governing Board"
+        ],
+        "image": "tom-wilkie.jpeg",
+        "maintainer": {
+            "Prometheus": "true"
+        }
+    },
+    {
+        "name": "Yong Tang",
+        "bio": "",
+        "company": "",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/yong-tang/",
+        "twitter": "",
+        "github": "https://github.com/yongtang",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [],
+        "image": "https://www.cncf.io/wp-content/uploads/2020/08/AAEAAQAAAAAAAAv8AAAAJDMxNjM1NTgyLTk5NzgtNGI1Mi04NjdiLTMwZDU0MDY3NmQ4Nw-1.jpg",
+        "maintainer": {
+            "CoreDNS": "true"
+        }
+    },
+    {
+        "name": "Phil Estes",
+        "bio": "Phil is a Principal Engineer for Amazon Web Services working on core container technologies for Amazon's cloud platform.\n\nPhil has a long history of involvement in core container runtime technology, starting with contributing and becoming a maintainer in the Docker engine project in 2014. Phil contributed key features like user namespace support and helped bring multi-platform image capabilities to registries and runtimes in the last several years. Phil is a founding maintainer of the CNCF containerd runtime project, and participates in the Open Container Initiative (OCI) as a member of the Technical Oversight Board (TOB).\n\nPhil helps others understand and apply container and cloud native concepts via speaking worldwide at events like industry conferences and meetups, and authors blog posts and articles for the OCI, CNCF, and publications like InfoQ and OpenSource.com. He maintains an active blog on container topics at https://integratedcode.us and you can find him on Twitter tweeting away as @estesp. Phil lives in Virginia in the USA and enjoys a quiet home office when not traveling the world for conferences and events.",
+        "company": "AWS",
+        "pronouns": "",
+        "linkedin": "https://linkedin.com/in/estesp",
+        "twitter": "https://twitter.com/estesp",
+        "github": "https://github.com/estesp",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "location": "Virginia, United States",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2020/08/Phil-square-photo-1.jpg",
+        "maintainer": {
+            "containerd": "true"
+        }
+    },
+    {
+        "name": "Davanum Srinivas",
+        "bio": "<p>Davanum Srinivas (a.k.a Dims) is a Staff Engineer with Amazon Web Services working full time on Kubernetes and related projects at CNCF. Dims is on the Kubernetes Steering Committee and actively involved in various Kubernetes SIGs and working groups like the Architecture, Testing, Node, Infrastructure etc. Previously at VMware, Huawei and Mirantis, he was involved in OpenStack Nova, Oslo, KeyStone, Magnum and related projects and on the Technical Committee in OpenStack.He also worked on IBM PureApplication product as an Architect and led a team working on Web Services support in WebSphere. Dims has a long track record in open source projects including Apache Cocoon, Axis2, Geronimo at the Apache Software Foundation and co-founded WSO2 based on the open source business model.</p>",
+        "company": "Amazon Web Services (TOC Chair)",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/davanum/",
+        "twitter": "https://twitter.com/dims",
+        "github": "https://github.com/dims",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Governing Board",
+            "Technical Oversight Committee"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2019/07/23304.jpg",
+        "maintainer": {
+            "containerd": "true"
+        }
+    },
+    {
+        "name": "Eduardo Silva",
+        "bio": "",
+        "company": "",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/edsiper",
+        "twitter": "https://twitter.com/edsiper?lang=en",
+        "github": "https://github.com/edsiper",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [],
+        "image": "https://www.cncf.io/wp-content/uploads/2020/08/369718-1.jpeg",
+        "maintainer": {
+            "Fluentd": "true"
+        }
+    },
+    {
+        "name": "Yuri Shkuro",
+        "bio": "",
+        "company": "",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/yurishkuro/",
+        "twitter": "https://twitter.com/yurishkuro?lang=en",
+        "github": "https://github.com/yurishkuro",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [],
+        "image": "https://www.cncf.io/wp-content/uploads/2017/10/3523016.jpg",
+        "maintainer": {
+            "OpenTelemetry (Governance Committee)": "true"
+        }
+    },
+    {
+        "name": "Justin Cappos",
+        "bio": "",
+        "company": "",
+        "pronouns": "",
+        "linkedin": "",
+        "twitter": "",
+        "github": "https://github.com/JustinCappos",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [],
+        "image": "https://www.cncf.io/wp-content/uploads/2020/08/justin-cappos-1.jpg",
+        "maintainer": {
+            "In-Toto": "true"
+        }
+    },
+    {
+        "name": "Justin Cormack",
+        "bio": "<p>Justin is the CTO at Docker. He is passionate about software development, security, and the open source community.</p>",
+        "company": "Docker",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/justincormack/",
+        "twitter": "https://twitter.com/justincormack",
+        "github": "https://github.com/justincormack",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Technical Oversight Committee"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2020/08/justincormack-1.jpg",
+        "maintainer": {
+            "Distribution": "true"
+        }
+    },
+    {
+        "name": "Matt Farina",
+        "bio": "<p>Matt is a Distinguished Engineer at SUSE where he works on cloud native research and development. He is a former Kubernetes SIG Apps and Architecture chair and a current maintainer of the CNCF Helm and Artifact Hub projects. Matt likes to solve problems and has been contributing to open source projects for over 15 years.</p>",
+        "company": "SUSE",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/matthewfarina/",
+        "twitter": "https://twitter.com/mattfarina",
+        "github": "https://github.com/mattfarina",
+        "wechat": "",
+        "website": "https://mattfarina.com",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Technical Oversight Committee"
+        ],
+        "image": "matt-farina.jpg",
+        "maintainer": {
+            "Artifact Hub": "true"
+        }
+    },
+    {
+        "name": "Karen Chu",
+        "bio": "Karen is a community manager on the Azure Container Compute team with a focus on open source and upstream developer tools such as Helm, Brigade, Virtual Kubelet, CNAB, and more. She manages the Kubernetes Colorado Meetup, Eastside Kubernetes Meetup, and Women in Infrastructure (Seattle) Meetup. She also helped create The Illustrated Children's Guide to Kubernetes book series. She's based in San Francisco, but you can often find her in Boulder, CO and Seattle, WA.",
+        "company": "Microsoft",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/karenhchu/",
+        "twitter": "https://twitter.com/karenhchu",
+        "github": "https://github.com/karenhchu",
+        "wechat": "",
+        "website": "",
+        "location": "San Francisco, CA, United States",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2020/08/karen-1.jpg",
+        "maintainer": {
+            "Helm": "true"
+        }
+    },
+    {
+        "name": "Orlin Vasilev",
+        "bio": "Orlin is a Engineer at VMware working as Community Manager on Harbor and Contour, DevOps/SRE/Infra at Internal Kubernetes Platform. Prior to VMware, Orlin worked as *ix and Cloud Engineer/Architect at HPE. For years he has been involved with so-called traditional infrastructure.\n\nHe is also part of the team that organizes the <a href=\"https://www.meetup.com/Cloud-Native-Computing-Bulgaria/\" target=\"_blank\" rel=\"noopener noreferrer\">Kubernetes &amp; Cloud Native Computing Bulgaria Meetup</a>.\n\nWhen he's not geeking out, he is snowboarding/camping/BBQ-ing with his family.",
+        "company": "VMware",
+        "pronouns": "he/him",
+        "location": "Sofia, Bulgaria",
+        "linkedin": "https://www.linkedin.com/in/ovasilev/",
+        "twitter": "https://twitter.com/OrlinVasilev",
+        "github": "https://github.com/OrlinVasilev",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "languages": [
+            "Bulgarian",
+            "English"
+        ],
+        "projects": [
+            "harbor",
+            "contour"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "orlin-vasilev.jpeg",
+        "maintainer": {
+            "Harbor: SIG Community": "true"
+        }
+    },
+    {
+        "name": "Doug Davis",
+        "bio": "",
+        "company": "",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/doug-davis-05b9ba6/",
+        "twitter": "https://twitter.com/duginabox",
+        "github": "https://github.com/duglin",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [],
+        "image": "https://www.cncf.io/wp-content/uploads/2020/08/photo.do_-1.jpeg",
+        "maintainer": {
+            "CloudEvents": "true"
+        }
+    },
+    {
+        "name": "Mark Peek",
+        "bio": "",
+        "company": "",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/markpeek/",
+        "twitter": "https://twitter.com/markpeek?lang=en",
+        "github": "https://github.com/markpeek",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [],
+        "image": "https://www.cncf.io/wp-content/uploads/2018/08/1516281506861.jpg",
+        "maintainer": {
+            "CloudEvents": "true"
+        }
+    },
+    {
+        "name": "Richard Hartmann",
+        "bio": "Richard \"RichiH\" Hartmann is the Director of Community at Grafana Labs, Prometheus team member, OpenMetrics founder, OpenTelemetry member, CNCF TAG Observability chair, CNCF Governing Board member, and more. He also leads or organizes various conferences, including PromCon, FOSDEM, DENOG, DebConf, and Chaos Communication Congress. In the past, he made mainframe databases work, ISP backbones run, freenode work, and designed and built a datacenter from scratch. Go through his talks at https://github.com/RichiH/talks or follow him on Twitter at https://twitter.com/TwitchiH for musings on the intersection of technology and society.",
+        "company": "Grafana Labs (Developer Seat Rep)",
+        "pronouns": "he/him",
+        "linkedin": "https://www.linkedin.com/in/richih",
+        "twitter": "https://twitter.com/TwitchiH",
+        "github": "https://github.com/richih",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Governing Board",
+            "Technical Oversight Committee"
+        ],
+        "image": "richard-hartmann.jpg",
+        "maintainer": {
+            "OpenMetrics": "true"
+        }
+    },
+    {
+        "name": "Allen Sun",
+        "bio": "",
+        "company": "",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/hongliang-sun-b079735a/",
+        "twitter": "https://twitter.com/shlallen",
+        "github": "https://github.com/allencloud",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [],
+        "image": "https://www.cncf.io/wp-content/uploads/2018/08/LT8f_Z5X_400x400.jpg",
+        "maintainer": {
+            "sealer": "true"
+        }
+    },
+    {
+        "name": "Siddharth Bhadri",
+        "bio": "",
+        "company": "",
+        "pronouns": "",
+        "linkedin": "https://in.linkedin.com/in/siddharth-bhadri",
+        "twitter": "https://twitter.com/BhadriSiddharth",
+        "github": "https://github.com/sids-b",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [],
+        "image": "https://www.cncf.io/wp-content/uploads/2019/04/30088497.jpg",
+        "maintainer": {
+            "KubeEdge": "true"
+        }
+    },
+    {
+        "name": "Yin Ding",
+        "bio": "",
+        "company": "",
+        "pronouns": "",
+        "linkedin": "",
+        "twitter": "https://twitter.com/yinding19",
+        "github": "https://github.com/dingyin",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [],
+        "image": "https://www.cncf.io/wp-content/uploads/2020/10/yinding.jpg",
+        "maintainer": {
+            "KubeEdge": "true"
+        }
+    },
+    {
+        "name": "Kevin Wang (Zefeng)",
+        "bio": "<p>Kevin Wang is a contributor in the CNCF community since its beginning, co-founder of the&nbsp;<a href=\"https://kubeedge.io/\" target=\"_blank\" rel=\"noreferrer noopener\">KubeEdge</a>&nbsp;and&nbsp;<a href=\"https://volcano.sh/\" target=\"_blank\" rel=\"noreferrer noopener\">Volcano</a>&nbsp;projects, and leader of the Cloud Native Open Source Team at Huawei.</p>\n\n<p>Kevin has contributed to Kubernetes upstream for years and now spends 100% of his work and focus on wider open source cloud native community development.</p>\n\n<p>In 2020, Kevin led the community members in China and worked with CNCF to organize the Cloud Native + Open Source Virtual Summit China 2020 conference.</p>\n\n<p>Meetup Organizer: CloudNativeDaysChina&nbsp;<a href=\"https://www.meetup.com/Cloud-Native-days-china/\" target=\"_blank\" rel=\"noreferrer noopener\">https://www.meetup.com/Cloud-Native-days-china/</a></p>",
+        "company": "Huawei",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/kevin-wangzefeng/",
+        "twitter": "https://twitter.com/kevinwzf0126",
+        "github": "https://github.com/kevin-wangzefeng",
+        "wechat": "",
+        "website": "",
+        "location": "Hangzhou, China",
+        "projects": [
+            "Kubernetes",
+            "KubeEdge",
+            "Volcano"
+        ],
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2021/03/Kevin-Wang.jpeg",
+        "maintainer": {
+            "Karmada": "true"
+        }
+    },
+    {
+        "name": "Yuri Shkuro",
+        "bio": "",
+        "company": "",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/yurishkuro/",
+        "twitter": "https://twitter.com/yurishkuro?lang=en",
+        "github": "https://github.com/yurishkuro",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [],
+        "image": "https://www.cncf.io/wp-content/uploads/2017/10/3523016.jpg",
+        "maintainer": {
+            "OpenTelemetry (Governance Committee)": "true"
+        }
+    },
+    {
+        "name": "Kiran Mova",
+        "bio": "",
+        "company": "",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/kiranmova/",
+        "twitter": "https://twitter.com/kiranmova",
+        "github": "https://github.com/kmova",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [],
+        "image": "https://www.cncf.io/wp-content/uploads/2018/10/1517670561450.jpg",
+        "maintainer": {
+            "OpenEBS": "true"
+        }
+    },
+    {
+        "name": "Bartłomiej Płotka",
+        "bio": "<p>Bartek Plotka is a Principal Software Engineer at Red Hat with a background in SRE, currently working on Observability. As the co-author of the CNCF Thanos project and core maintainer of various open-source projects including Prometheus, he enjoys building OSS communities and maintainable, reliable distributed systems, ideally in Go. On top of that, he is active in the CNCF SIG Observability as the technical lead. He writes a book with O'Reilly.</p>",
+        "company": "Red Hat",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/bwplotka",
+        "twitter": "https://twitter.com/bwplotka",
+        "github": "https://github.com/bwplotka",
+        "wechat": "",
+        "website": "https://bwplotka.dev",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2021/07/profile.jpeg",
+        "maintainer": {
+            "Thanos": "true"
+        }
+    },
+    {
+        "name": "Justin Cappos",
+        "bio": "",
+        "company": "",
+        "pronouns": "",
+        "linkedin": "",
+        "twitter": "",
+        "github": "https://github.com/JustinCappos",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [],
+        "image": "https://www.cncf.io/wp-content/uploads/2020/08/justin-cappos-1.jpg",
+        "maintainer": {
+            "In-Toto": "true"
+        }
+    },
+    {
+        "name": "Liying Zhang",
+        "bio": "Liying (Vivian) Zhang is a product and open source community manager at JD.com, whose main responsibilities include driving the community adoption of JD’s open source projects and promoting the collaborations with CNCF and the broader LF open source communities, as well as companies/members/individuals in the communities. Vivian is one of the main contributors of the <a href=\"http://chubao.io/\" target=\"_blank\" rel=\"noopener noreferrer\">ChubaoFS</a> project.",
+        "company": "JD.com",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/vivian-zhang-25b53b13b/",
+        "twitter": "https://twitter.com/Vivian_zly7755",
+        "github": "https://github.com/Vivian7755",
+        "wechat": "",
+        "website": "",
+        "location": "China",
+        "projects": [
+            "Kubernetes",
+            "Vitess",
+            "ChubaoFS",
+            "Prometheus",
+            "Harbor"
+        ],
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2020/08/Liying-Zhang-1.jpg",
+        "maintainer": {
+            "CubeFS": "true"
+        }
+    },
+    {
+        "name": "Lachlan Evenson",
+        "bio": "Lachlan is a Principal Program Manager on the open source team at Azure. As a cloud native ambassador, emeritus Kubernetes release lead, and Helm charts maintainer, Lachlan has deep operational knowledge of many Cloud Native projects. He spends his days building and contributing to software that addresses key challenges in the Cloud Native ecosystem.",
+        "company": "Microsoft",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/lachlanevenson/",
+        "twitter": "https://twitter.com/LachlanEvenson",
+        "github": "https://github.com/lachie83",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors",
+            "Governing Board"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2018/01/n8MwLvTY_400x400.jpg",
+        "maintainer": {
+            "Service Mesh Interface": "true"
+        }
+    },
+    {
+        "name": "Lee Calcote",
+        "bio": "<p data-renderer-start-pos=\"326\">Lee Calcote is the Founder of Layer5, where the community helps organizations harness and exploit the value of service meshes. Previously, Calcote stewarded technology strategy and innovation across SolarWinds. He led software-defined data center engineering at Seagate, delivering predictive analytics and modern systems management. Calcote held various leadership positions at Cisco, where he created Cisco’s cloud management platforms and pioneered new, automated, remote management services.</p>\n<p data-renderer-start-pos=\"824\">In addition to his role at Layer5, Calcote serves in various industry bodies, including as a SIG chair in Cloud Native Computing Foundation (CNCF), and formerly, participated in the delivery of Redfish 1.0 in the Distributed Management Task Foundation (DMTF), and Docker Benchmark 1.0 in Center for Internet Security (CIS). He is a startup advisor, Docker Captain, Cloud Native Ambassador, O’Reilly author, and speaker in the cloud native ecosystem.</p>\n<p data-renderer-start-pos=\"1276\">Calcote is a maintainer of open source projects, including Meshery, Service Mesh Interface, and Service Mesh Performance. Calcote holds a bachelor’s degree in Computer Science, a master’s degree in Business Administration from California State University, Fresno and retains a list of industry certifications.</p>\n<strong>Meetup:</strong> Cloud Native Austin",
+        "company": "Layer5",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/leecalcote/",
+        "twitter": "https://twitter.com/lcalcote",
+        "github": "https://github.com/leecalcote",
+        "wechat": "",
+        "website": "",
+        "projects": [
+            "Kubernetes",
+            "Prometheus",
+            "Istio",
+            "Linkerd",
+            "Envoy",
+            "Meshery",
+            "Service Mesh Performance",
+            "Service Mesh Interface"
+        ],
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2017/06/leecalcote.jpg",
+        "maintainer": {
+            "Service Mesh Performance": "true"
+        }
+    },
+    {
+        "name": "Kevin Wang (Zefeng)",
+        "bio": "<p>Kevin Wang is a contributor in the CNCF community since its beginning, co-founder of the&nbsp;<a href=\"https://kubeedge.io/\" target=\"_blank\" rel=\"noreferrer noopener\">KubeEdge</a>&nbsp;and&nbsp;<a href=\"https://volcano.sh/\" target=\"_blank\" rel=\"noreferrer noopener\">Volcano</a>&nbsp;projects, and leader of the Cloud Native Open Source Team at Huawei.</p>\n\n<p>Kevin has contributed to Kubernetes upstream for years and now spends 100% of his work and focus on wider open source cloud native community development.</p>\n\n<p>In 2020, Kevin led the community members in China and worked with CNCF to organize the Cloud Native + Open Source Virtual Summit China 2020 conference.</p>\n\n<p>Meetup Organizer: CloudNativeDaysChina&nbsp;<a href=\"https://www.meetup.com/Cloud-Native-days-china/\" target=\"_blank\" rel=\"noreferrer noopener\">https://www.meetup.com/Cloud-Native-days-china/</a></p>",
+        "company": "Huawei",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/kevin-wangzefeng/",
+        "twitter": "https://twitter.com/kevinwzf0126",
+        "github": "https://github.com/kevin-wangzefeng",
+        "wechat": "",
+        "website": "",
+        "location": "Hangzhou, China",
+        "projects": [
+            "Kubernetes",
+            "KubeEdge",
+            "Volcano"
+        ],
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2021/03/Kevin-Wang.jpeg",
+        "maintainer": {
+            "Karmada": "true"
+        }
+    },
+    {
+        "name": "Ed Lee",
+        "bio": "",
+        "company": "",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/iedwardlee/",
+        "twitter": "https://twitter.com/edlee2121",
+        "github": "https://github.com/edlee2121",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [],
+        "image": "https://www.cncf.io/wp-content/uploads/2018/11/1516255891678.jpg",
+        "maintainer": {
+            "Argo": "true"
+        }
+    },
+    {
+        "name": "Kevin Wang (Zefeng)",
+        "bio": "<p>Kevin Wang is a contributor in the CNCF community since its beginning, co-founder of the&nbsp;<a href=\"https://kubeedge.io/\" target=\"_blank\" rel=\"noreferrer noopener\">KubeEdge</a>&nbsp;and&nbsp;<a href=\"https://volcano.sh/\" target=\"_blank\" rel=\"noreferrer noopener\">Volcano</a>&nbsp;projects, and leader of the Cloud Native Open Source Team at Huawei.</p>\n\n<p>Kevin has contributed to Kubernetes upstream for years and now spends 100% of his work and focus on wider open source cloud native community development.</p>\n\n<p>In 2020, Kevin led the community members in China and worked with CNCF to organize the Cloud Native + Open Source Virtual Summit China 2020 conference.</p>\n\n<p>Meetup Organizer: CloudNativeDaysChina&nbsp;<a href=\"https://www.meetup.com/Cloud-Native-days-china/\" target=\"_blank\" rel=\"noreferrer noopener\">https://www.meetup.com/Cloud-Native-days-china/</a></p>",
+        "company": "Huawei",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/kevin-wangzefeng/",
+        "twitter": "https://twitter.com/kevinwzf0126",
+        "github": "https://github.com/kevin-wangzefeng",
+        "wechat": "",
+        "website": "",
+        "location": "Hangzhou, China",
+        "projects": [
+            "Kubernetes",
+            "KubeEdge",
+            "Volcano"
+        ],
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2021/03/Kevin-Wang.jpeg",
+        "maintainer": {
+            "Karmada": "true"
+        }
+    },
+    {
+        "name": "Jun Du",
+        "bio": "",
+        "company": "",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/jun-du-90/",
+        "twitter": "https://twitter.com/DuJun90",
+        "github": "https://github.com/m1093782566",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [],
+        "image": "https://www.cncf.io/wp-content/uploads/2018/09/1554983818387.jpg",
+        "maintainer": {
+            "CNI-Genie": "true"
+        }
+    },
+    {
+        "name": "Brad McCoy",
+        "bio": "<p>Brad is the Head of Platform Engineering at Basiq focusing in the Cloud Innovation space, and DevOps.  He contributes to a lot of open source projects focusing on Kubernetes, Argo and Keptn. Brad has a passion for mentoring and guiding people through their open source journey.</p>\n\n<p></p>\n\n<p>Meetup: Cloud Native Dojo – Australia.</p>",
+        "company": "Basiq",
+        "pronouns": "he/him",
+        "location": "Coolum Beach, Australia",
+        "linkedin": "https://www.linkedin.com/in/bradmccoy3",
+        "twitter": "https://twitter.com/bradmccoydev",
+        "github": "https://github.com/bradmccoydev",
+        "wechat": "",
+        "website": "https://blog.bradmccoy.io",
+        "youtube": "https://www.youtube.com/channel/UCP8mNrSi0aT7mOiVlq63gig",
+        "priority": "",
+        "languages": [
+            "Spanish",
+            "English"
+        ],
+        "projects": [
+            "argo",
+            "cloudevents",
+            "crossplane",
+            "kubernetes",
+            "open-policy-agent-opa"
+        ],
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "brad-mccoy.jpg",
+        "maintainer": {
+            "Keptn": "true"
+        }
+    },
+    {
+        "name": "John Hillegass",
+        "bio": "",
+        "company": "Capital One",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/johnhillegass/",
+        "twitter": "https://twitter.com/johnphillegass",
+        "github": "https://github.com/JohnHillegass",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [],
+        "image": "https://www.cncf.io/wp-content/uploads/2020/08/13325146.jpg",
+        "maintainer": {
+            "Cloud Custodian": "true"
+        }
+    },
+    {
+        "name": "Matt Farina",
+        "bio": "<p>Matt is a Distinguished Engineer at SUSE where he works on cloud native research and development. He is a former Kubernetes SIG Apps and Architecture chair and a current maintainer of the CNCF Helm and Artifact Hub projects. Matt likes to solve problems and has been contributing to open source projects for over 15 years.</p>",
+        "company": "SUSE",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/matthewfarina/",
+        "twitter": "https://twitter.com/mattfarina",
+        "github": "https://github.com/mattfarina",
+        "wechat": "",
+        "website": "https://mattfarina.com",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Technical Oversight Committee"
+        ],
+        "image": "matt-farina.jpg",
+        "maintainer": {
+            "Artifact Hub": "true"
+        }
+    },
+    {
+        "name": "Sabree Blackmon",
+        "bio": "Sabree is a Security Engineer at Docker. He is passionate about open source and helping engineers develop &amp; deploy secure distributed systems and applications.",
+        "company": "Docker",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/sabree-blackmon/",
+        "twitter": "https://twitter.com/heavypackets",
+        "github": "https://github.com/heavypackets",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2020/08/sabree-blackmon-1.jpg",
+        "maintainer": {
+            "Parsec": "true"
+        }
+    },
+    {
+        "name": "Justin Cormack",
+        "bio": "<p>Justin is the CTO at Docker. He is passionate about software development, security, and the open source community.</p>",
+        "company": "Docker",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/justincormack/",
+        "twitter": "https://twitter.com/justincormack",
+        "github": "https://github.com/justincormack",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Technical Oversight Committee"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2020/08/justincormack-1.jpg",
+        "maintainer": {
+            "Distribution": "true"
+        }
+    },
+    {
+        "name": "Bassam Tabbara",
+        "bio": "",
+        "company": "",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/bassamtabbara/",
+        "twitter": "https://twitter.com/bassamtabbara?lang=en",
+        "github": "https://github.com/bassam",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [],
+        "image": "https://www.cncf.io/wp-content/uploads/2020/08/3f9c783-1.jpg",
+        "maintainer": {
+            "Crossplane": "true"
+        }
+    },
+    {
+        "name": "Dave Zolotusky",
+        "bio": "<p>Dave is an engineer in Spotify's Platform team, where his focus has been core infrastructure, the data platform, and Spotify's use of cloud services. A noted evangelist for cloud native and open source technologies, Dave spurred Spotify to join the CNCF and remain active in the community, launched the Stockholm CNCF meetup, and is both a CNCF Ambassador and a member of the KubeCon + CloudNativeCon Program Committee.</p>\n\n<p>In his work at Spotify, Dave has been essential to the adoption of CNCF projects like Kubernetes, gRPC, Envoy, and OpenTelemetry, as well as experimentation with Service Mesh. Prior to his time with Spotify, Dave worked at AWS, at VMware on cloud management software, and at Microsoft on the Office team.</p>",
+        "company": "Platform Engineer at Spotify",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/dzolotusky/",
+        "twitter": "https://twitter.com/dzolotusky",
+        "github": "https://github.com/dzolotusky",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors",
+            "Technical Oversight Committee"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2020/10/DaveZolotusky-scaled.jpg",
+        "maintainer": {
+            "Backstage": "true"
+        }
+    },
+    {
+        "name": "Chris Short",
+        "bio": "<p>Chris Short has been a proponent of open source solutions throughout his over two decades in various IT disciplines, including systems, security, networks, DevOps management, and cloud native advocacy across the public and private sectors. He currently works on the Kubernetes team at Amazon Web Services and is an active <a href=\"https://www.kubernetes.dev/\" target=\"_blank\">Kubernetes contributor</a>. Chris is a disabled US Air Force veteran living with his wife and son in Greater Metro Detroit. Chris writes about Cloud Native, DevOps, and other topics at <a href=\"https://chrisshort.net\" target=\"_blank\" rel=\"noopener noreferrer\">ChrisShort.net</a>. He also runs the Cloud Native, DevOps, Open Source, industry news, and culture focused newsletter <a href=\"https://devopsish.com\" target=\"_blank\" rel=\"noopener noreferrer\">DevOps'ish</a>.</p>",
+        "company": "AWS",
+        "pronouns": "He/Him/His",
+        "linkedin": "https://www.linkedin.com/in/thechrisshort/",
+        "twitter": "https://twitter.com/ChrisShort",
+        "github": "https://github.com/chris-short",
+        "wechat": "",
+        "website": "https://linktr.ee/TheChrisShort",
+        "youtube": "https://www.youtube.com/containersfromthecouch",
+        "languages": [
+            "English"
+        ],
+        "projects": [
+            "Kubernetes",
+            "OpenGitOps"
+        ],
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "chris-short.jpg",
+        "maintainer": {
+            "OpenGitOps": "true"
+        }
+    },
+    {
+        "name": "Justin Cormack",
+        "bio": "<p>Justin is the CTO at Docker. He is passionate about software development, security, and the open source community.</p>",
+        "company": "Docker",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/justincormack/",
+        "twitter": "https://twitter.com/justincormack",
+        "github": "https://github.com/justincormack",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Technical Oversight Committee"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2020/08/justincormack-1.jpg",
+        "maintainer": {
+            "Distribution": "true"
+        }
+    },
+    {
+        "name": "Julius Volz",
+        "bio": "Julius co-founded Prometheus and lead the project to success at SoundCloud and beyond. He now focuses on growing the Prometheus community and is the main organizer of PromCon, the first conference around Prometheus. In a previous life, Julius was a Site Reliability Engineer at Google.\n\nMeet-Up Organizer:\n<a href=\"http://www.meetup.com/Berlin-Prometheus-Meetup/\" target=\"_blank\" rel=\"noopener noreferrer\">Berlin Prometheus Meetup</a>",
+        "company": "",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/julius-volz-25793713/",
+        "twitter": "https://twitter.com/juliusvolz?lang=en",
+        "github": "https://github.com/juliusv",
+        "wechat": "",
+        "website": "",
+        "location": "Berlin, Germany",
+        "projects": [
+            "Prometheus"
+        ],
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2017/06/538008.jpg",
+        "maintainer": {
+            "Trickster ": "true"
+        }
+    },
+    {
+        "name": "Ilya Dmitrichenko",
+        "bio": "Ilya is a Staff Software Engineer at Docker, working on image build tools.\n\nPrior to Docker, Ilya worked at Isovalent & Weaveworks.\n\nWhile at Isovalent, Ilya has contributed to Cilium project, where one of his most notable contributions was integration with OpenTelemetry.\n\nDuring his time at Weaveworks, Ilya has contrubuted to Kubernetes (most notably, he has implemented the first version of kubeadm), and played a key role advocating for Flux (& GitOps) during the early days. He also authored eksctl, which became an official CLI for Amazon EKS.",
+        "company": "Docker",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/ilyadmitrichenko",
+        "twitter": "https://twitter.com/errordeveloper",
+        "github": "https://github.com/errordeveloper",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2018/03/hero-ilya-dmitrichenko.aa84b22662f02b04f36e88138c504ea7d6acd6f0-1-1.jpg",
+        "maintainer": {
+            "Cilium": "true"
+        }
+    },
+    {
+        "name": "Liz Rice",
+        "bio": "Liz is Chief Open Source Officer with eBPF specialists Isovalent, creators of the Cilium cloud native networking, security and observability project. She is on the Board of OpenUK, and was Chair of the CNCF's Technical Oversight Committee in 2019-2022, and Co-Chair of KubeCon + CloudNativeCon in 2018. She is also the author of Container Security, published by O'Reilly.",
+        "company": "Isovalent",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/lizrice",
+        "twitter": "https://twitter.com/lizrice",
+        "github": "https://github.com/lizrice",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Governing Board"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2019/03/1516373338735.jpg",
+        "maintainer": {
+            "Cilium": "true"
+        }
+    },
+    {
+        "name": "Lee Calcote",
+        "bio": "<p data-renderer-start-pos=\"326\">Lee Calcote is the Founder of Layer5, where the community helps organizations harness and exploit the value of service meshes. Previously, Calcote stewarded technology strategy and innovation across SolarWinds. He led software-defined data center engineering at Seagate, delivering predictive analytics and modern systems management. Calcote held various leadership positions at Cisco, where he created Cisco’s cloud management platforms and pioneered new, automated, remote management services.</p>\n<p data-renderer-start-pos=\"824\">In addition to his role at Layer5, Calcote serves in various industry bodies, including as a SIG chair in Cloud Native Computing Foundation (CNCF), and formerly, participated in the delivery of Redfish 1.0 in the Distributed Management Task Foundation (DMTF), and Docker Benchmark 1.0 in Center for Internet Security (CIS). He is a startup advisor, Docker Captain, Cloud Native Ambassador, O’Reilly author, and speaker in the cloud native ecosystem.</p>\n<p data-renderer-start-pos=\"1276\">Calcote is a maintainer of open source projects, including Meshery, Service Mesh Interface, and Service Mesh Performance. Calcote holds a bachelor’s degree in Computer Science, a master’s degree in Business Administration from California State University, Fresno and retains a list of industry certifications.</p>\n<strong>Meetup:</strong> Cloud Native Austin",
+        "company": "Layer5",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/leecalcote/",
+        "twitter": "https://twitter.com/lcalcote",
+        "github": "https://github.com/leecalcote",
+        "wechat": "",
+        "website": "",
+        "projects": [
+            "Kubernetes",
+            "Prometheus",
+            "Istio",
+            "Linkerd",
+            "Envoy",
+            "Meshery",
+            "Service Mesh Performance",
+            "Service Mesh Interface"
+        ],
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2017/06/leecalcote.jpg",
+        "maintainer": {
+            "Service Mesh Performance": "true"
+        }
+    },
+    {
+        "name": "Lee Calcote",
+        "bio": "<p data-renderer-start-pos=\"326\">Lee Calcote is the Founder of Layer5, where the community helps organizations harness and exploit the value of service meshes. Previously, Calcote stewarded technology strategy and innovation across SolarWinds. He led software-defined data center engineering at Seagate, delivering predictive analytics and modern systems management. Calcote held various leadership positions at Cisco, where he created Cisco’s cloud management platforms and pioneered new, automated, remote management services.</p>\n<p data-renderer-start-pos=\"824\">In addition to his role at Layer5, Calcote serves in various industry bodies, including as a SIG chair in Cloud Native Computing Foundation (CNCF), and formerly, participated in the delivery of Redfish 1.0 in the Distributed Management Task Foundation (DMTF), and Docker Benchmark 1.0 in Center for Internet Security (CIS). He is a startup advisor, Docker Captain, Cloud Native Ambassador, O’Reilly author, and speaker in the cloud native ecosystem.</p>\n<p data-renderer-start-pos=\"1276\">Calcote is a maintainer of open source projects, including Meshery, Service Mesh Interface, and Service Mesh Performance. Calcote holds a bachelor’s degree in Computer Science, a master’s degree in Business Administration from California State University, Fresno and retains a list of industry certifications.</p>\n<strong>Meetup:</strong> Cloud Native Austin",
+        "company": "Layer5",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/leecalcote/",
+        "twitter": "https://twitter.com/lcalcote",
+        "github": "https://github.com/leecalcote",
+        "wechat": "",
+        "website": "",
+        "projects": [
+            "Kubernetes",
+            "Prometheus",
+            "Istio",
+            "Linkerd",
+            "Envoy",
+            "Meshery",
+            "Service Mesh Performance",
+            "Service Mesh Interface"
+        ],
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2017/06/leecalcote.jpg",
+        "maintainer": {
+            "Service Mesh Performance": "true"
+        }
+    },
+    {
+        "name": "Kevin Wang (Zefeng)",
+        "bio": "<p>Kevin Wang is a contributor in the CNCF community since its beginning, co-founder of the&nbsp;<a href=\"https://kubeedge.io/\" target=\"_blank\" rel=\"noreferrer noopener\">KubeEdge</a>&nbsp;and&nbsp;<a href=\"https://volcano.sh/\" target=\"_blank\" rel=\"noreferrer noopener\">Volcano</a>&nbsp;projects, and leader of the Cloud Native Open Source Team at Huawei.</p>\n\n<p>Kevin has contributed to Kubernetes upstream for years and now spends 100% of his work and focus on wider open source cloud native community development.</p>\n\n<p>In 2020, Kevin led the community members in China and worked with CNCF to organize the Cloud Native + Open Source Virtual Summit China 2020 conference.</p>\n\n<p>Meetup Organizer: CloudNativeDaysChina&nbsp;<a href=\"https://www.meetup.com/Cloud-Native-days-china/\" target=\"_blank\" rel=\"noreferrer noopener\">https://www.meetup.com/Cloud-Native-days-china/</a></p>",
+        "company": "Huawei",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/kevin-wangzefeng/",
+        "twitter": "https://twitter.com/kevinwzf0126",
+        "github": "https://github.com/kevin-wangzefeng",
+        "wechat": "",
+        "website": "",
+        "location": "Hangzhou, China",
+        "projects": [
+            "Kubernetes",
+            "KubeEdge",
+            "Volcano"
+        ],
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2021/03/Kevin-Wang.jpeg",
+        "maintainer": {
+            "Karmada": "true"
+        }
+    },
+    {
+        "name": "Will Wang",
+        "bio": "<p>Will Wang is the senior architect of Tencent Group's CODING DevOps, he is the author of PHEI(2 books published in China), and the city partner of Cloud Native Community (<a rel=\"noreferrer noopener\" href=\"https://cloudnative.to/\" target=\"_blank\">https://cloudnative.to</a>) in China. </p>\n\n<p></p>\n\n<p>At the same time, he is also one of the founders of Nocalhsot(the other is Wang Zhenwei). </p>\n\n<p>He is developing and maintaining the Nocalhost open source community, which can help users reduce the difficulty of developing software on Kubernetes. </p>\n\n<p>Meetup: Kubernetes and Cloud Native Meetup – Shenzhen. </p>",
+        "company": "Tencent",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/--259978198/",
+        "twitter": "https://twitter.com/wangwei39017217",
+        "github": "https://github.com/lyzhang1999",
+        "wechat": "",
+        "website": "",
+        "location": "China",
+        "projects": [
+            "Kubernetes"
+        ],
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2021/03/Wangwei-scaled.jpeg",
+        "maintainer": {
+            "Nocalhost": "true"
+        }
+    },
+    {
+        "name": "Feynman Zhou",
+        "bio": "Feynman is a technical writer and open source community manager at QingCloud, he is growing and maintaining the&nbsp;<a href=\"https://github.com/kubesphere/kubesphere\" target=\"_blank\" rel=\"noopener noreferrer\">KubeSphere</a>&nbsp;open source community, which helps users to widely adopt Kubernetes and reduce the learning curve of using cloud native technologies. He focuses on technical documentation, blogging, and&nbsp;user case studies.\nSpecialties: Kubernetes, Harbor, Service Mesh\n\nMeetup:&nbsp;<a href=\"https://www.huodongxing.com/event/9519840044711\" target=\"_blank\" rel=\"noopener noreferrer\">Kubernetes and Cloud Native Meetup - Beijing</a>",
+        "company": "",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/pengfei-zhou-569461178/",
+        "twitter": "https://twitter.com/FeynmanZhou",
+        "github": "https://github.com/FeynmanZhou",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "location": "China",
+        "projects": [
+            "Kubernetes",
+            "Harbor",
+            "Service Mesh"
+        ],
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2020/08/FeynmanZhou-1-1.jpg",
+        "maintainer": {
+            "OpenFunction": "true"
+        }
+    },
+    {
+        "name": "Allen Sun",
+        "bio": "",
+        "company": "",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/hongliang-sun-b079735a/",
+        "twitter": "https://twitter.com/shlallen",
+        "github": "https://github.com/allencloud",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "priority": "",
+        "category": [],
+        "image": "https://www.cncf.io/wp-content/uploads/2018/08/LT8f_Z5X_400x400.jpg",
+        "maintainer": {
+            "sealer": "true"
+        }
+    },
+    {
+        "name": "Feynman Zhou",
+        "bio": "Feynman is a technical writer and open source community manager at QingCloud, he is growing and maintaining the&nbsp;<a href=\"https://github.com/kubesphere/kubesphere\" target=\"_blank\" rel=\"noopener noreferrer\">KubeSphere</a>&nbsp;open source community, which helps users to widely adopt Kubernetes and reduce the learning curve of using cloud native technologies. He focuses on technical documentation, blogging, and&nbsp;user case studies.\nSpecialties: Kubernetes, Harbor, Service Mesh\n\nMeetup:&nbsp;<a href=\"https://www.huodongxing.com/event/9519840044711\" target=\"_blank\" rel=\"noopener noreferrer\">Kubernetes and Cloud Native Meetup - Beijing</a>",
+        "company": "",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/pengfei-zhou-569461178/",
+        "twitter": "https://twitter.com/FeynmanZhou",
+        "github": "https://github.com/FeynmanZhou",
+        "wechat": "",
+        "website": "",
+        "youtube": "",
+        "location": "China",
+        "projects": [
+            "Kubernetes",
+            "Harbor",
+            "Service Mesh"
+        ],
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2020/08/FeynmanZhou-1-1.jpg",
+        "maintainer": {
+            "OpenFunction": "true"
+        }
+    },
+    {
+        "name": "Craig Box",
+        "bio": "Craig joined Google as the Kubernetes project was being conceived, and has worked on it ever since. Since his first presentation on the topic in July 2014, he has spoken on 6 continents, including a KubeCon keynote. He is the co-host of the <a href=\"https://kubernetespodcast.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Kubernetes Podcast from Google</a>, a meetup you can download every week, featuring guests from all over the community. Craig has a desk in London but can be found all over the world.",
+        "company": "Google",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/crbnz/",
+        "twitter": "https://twitter.com/craigbox",
+        "github": "https://github.com/craigbox",
+        "wechat": "",
+        "website": "",
+        "location": "London, UK",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2019/06/1527498486588.jpg",
+        "maintainer": {
+            "Kubescape": "true"
+        }
+    },
+    {
+        "name": "Jimmy Song",
+        "bio": "Jimmy Song(宋净超) is a developer advocate at Tetrate, co-founder of&nbsp;ServiceMesher&nbsp;and&nbsp;Cloud Native Community(<a href=\"https://cloudnative.to/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://cloudnative.to&amp;source=gmail&amp;ust=1601561081856000&amp;usg=AFQjCNHNC7IfHkPQkaZNG0VeMeK0B1zyrA\">https://cloudnative.<wbr>to</a>) in China. He is an outstanding translator, author and producer of PHEI. Early adopters and evangelist of Kubernetes and Istio.\n\nHe has been blogging and coding for years on Cloud Native, also translated Cloud Native Go, Python, and Java books into Chinese. Jimmy lives in Beijing and spends his free time on photography and traveling.\n\nMeet-Up Organizer: China Service Mesh Meetup (<a href=\"https://www.servicemesher.com\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.servicemesher.com</a>)",
+        "company": "Tetrate",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/jimmysongio/",
+        "twitter": "https://twitter.com/jimmysongio",
+        "github": "https://github.com/rootsongjc",
+        "wechat": "",
+        "website": "",
+        "location": "Beijing, China",
+        "projects": [
+            "Kubernetes"
+        ],
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2018/08/jsong.jpg",
+        "maintainer": {
+            "Istio: Maintainers": "true"
+        }
+    },
+    {
+        "name": "Craig Box",
+        "bio": "Craig joined Google as the Kubernetes project was being conceived, and has worked on it ever since. Since his first presentation on the topic in July 2014, he has spoken on 6 continents, including a KubeCon keynote. He is the co-host of the <a href=\"https://kubernetespodcast.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Kubernetes Podcast from Google</a>, a meetup you can download every week, featuring guests from all over the community. Craig has a desk in London but can be found all over the world.",
+        "company": "Google",
+        "pronouns": "",
+        "linkedin": "https://www.linkedin.com/in/crbnz/",
+        "twitter": "https://twitter.com/craigbox",
+        "github": "https://github.com/craigbox",
+        "wechat": "",
+        "website": "",
+        "location": "London, UK",
+        "youtube": "",
+        "priority": "",
+        "category": [
+            "Ambassadors"
+        ],
+        "image": "https://www.cncf.io/wp-content/uploads/2019/06/1527498486588.jpg",
+        "maintainer": {
+            "Kubescape": "true"
+        }
+    }
+]
