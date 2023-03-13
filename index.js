@@ -4,13 +4,20 @@ const exportJsonFile = require('./toolkit/exportJsonFile.js');
 const util = require('util')
 
 // gh is gitHub
-const ghCncfPeopleJsonFile = "./data/input/people.json"
-const ghMaintainersCsvFile = "./data/input/maintainers.csv"
+const inputDataDir = "./data/input/"
+const ghCncfPeopleJsonFile = inputDataDir + "people.json"
+const ghMaintainersCsvFile = inputDataDir + "maintainers.csv"
 
 // CSV file converted to JSON minus no blank Project, Status and OWNERS/MAINTERS fields 
 const tmpMaintainersJsonFile = "./data/output/maintainers.json"
 
-const ghPeopleJsonNowWithMaintainers = "./data/output/people.json"
+const outputDataDir = "./data/output/"
+const ghPeopleJsonNowWithMaintainers = outputDataDir + "people.json"
+
+var newNonVoters = []
+var newVoters = []
+var updatedNonVoters = []
+var updatedVoters = []
 
 function transformMaintainerData(maintainerRecords) {
     return maintainerRecords.map((row, i) => {
@@ -27,7 +34,8 @@ function transformMaintainerData(maintainerRecords) {
         return row
     });
 }
-
+// Returns true if a project name contains the string "non-voting"
+// otherwise returns false
 function hasNoVotingRights(project) {
     if (typeof project !== 'string') {
       throw new Error('Input parameter must be a string');
@@ -49,13 +57,15 @@ function mergeMaintainersIntoPeople(peopleRecords, maintainerRecords) {
                     [maintainer["Project"]] : {
                         "non-voting" : "true"
                     }
-                }  
+                }
+                updatedNonVoters.push(peopleRecords[peopleIndex])
                 console.log('UPDATING non-voter: %o' + peopleRecords[peopleIndex] )
 
             } else {
                 peopleRecords[peopleIndex]["maintainer"] = {
                     [maintainer["Project"].toString()] : "true",
                 }
+                updatedVoters.push(peopleRecords[peopleIndex])
                 console.log('UPDATING voter: %o', peopleRecords[peopleIndex] )
             }
         } else {
@@ -73,8 +83,9 @@ function mergeMaintainersIntoPeople(peopleRecords, maintainerRecords) {
                     }
                 }
                 peopleRecords.push(newPersonRecord) 
+                newNonVoters.push(newPersonRecord)
                 
-                console.log('CREATING new non-voter %o ' ,  newPersonRecord)
+                console.log('CREATING new non-voter %o ' , newPersonRecord)
             } else {
                 const newPersonRecord =  {
                     name: maintainer["Maintainer Name"],
@@ -87,13 +98,19 @@ function mergeMaintainersIntoPeople(peopleRecords, maintainerRecords) {
                 } 
                 peopleRecords.push(newPersonRecord) 
                 console.log('CREATING new voter %o ' , newPersonRecord)
+                newVoters.push(newPersonRecord)
             }
         }
 
         return peopleRecords
     });
 }
-
+function changeReport(){
+    exportJsonFile(outputDataDir + "newNonVoters.json",newNonVoters)
+    exportJsonFile(outputDataDir + "newVoters.json",newVoters)
+    exportJsonFile(outputDataDir + "updatedNonVoters.json",updatedNonVoters)
+    exportJsonFile(outputDataDir + "updatedVoters.json",updatedVoters)
+}
 importCsvFile(ghMaintainersCsvFile).then(maintainerRecords => {
     const maintainers = transformMaintainerData(maintainerRecords);
     exportJsonFile(tmpMaintainersJsonFile, maintainers)
@@ -101,7 +118,7 @@ importCsvFile(ghMaintainersCsvFile).then(maintainerRecords => {
         const merged = mergeMaintainersIntoPeople(peopleRecords, maintainerRecords);
         return exportJsonFile(ghPeopleJsonNowWithMaintainers, peopleRecords );
     }).then(() => {
-        console.log('INFO: Merged maintainer data into people.json')
+        changeReport()
     }).catch(err => {
         console.error('ERROR: merging maintainer data into people.json');
         console.error(err);
@@ -117,4 +134,3 @@ function getPeopleRecordIndex(peopleRecords) {
         return p["github"] === ghProfile;
     });
 }
-
