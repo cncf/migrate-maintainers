@@ -106,10 +106,11 @@ function mergeMaintainersIntoPeople(peopleRecords, maintainerRecords) {
     });
 }
 function changeReport(){
-    exportJsonFile(outputDataDir + "newNonVoters.json",newNonVoters)
-    exportJsonFile(outputDataDir + "newVoters.json",newVoters)
-    exportJsonFile(outputDataDir + "updatedNonVoters.json",updatedNonVoters)
-    exportJsonFile(outputDataDir + "updatedVoters.json",updatedVoters)
+    const reportDir =  outputDataDir + './report/'  
+    exportJsonFile(reportDir + "newNonVoters.json",newNonVoters)
+    exportJsonFile(reportDir + "newVoters.json",newVoters)
+    exportJsonFile(reportDir + "updatedNonVoters.json",updatedNonVoters)
+    exportJsonFile(reportDir + "updatedVoters.json",updatedVoters)
 }
 importCsvFile(ghMaintainersCsvFile).then(maintainerRecords => {
     const maintainers = transformMaintainerData(maintainerRecords);
